@@ -36,4 +36,4 @@ ctree_cv_res=str(cv_results)
 trainData_b= #wait dont touch this
 model3=lm(unpaid ~ funded_amnt+term+int_rate+installment+sub_grade+emp_length+home_ownership+annual_inc+verification_status+purpose+addr_state+dti+inq_last_6mths+open_acc+pub_rec+revol_bal+revol_util+total_acc, data=trainData_b)
 
-
+#Hellooooooo!
